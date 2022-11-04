@@ -22,8 +22,13 @@ class Program
         kurs3.Egitmen = "Berkay Bilgin";
         kurs3.IzlenmeOrani = 81;
 
+        Kurs kurs4 = new Kurs();
+        kurs4.KursAdi = "Python";
+        kurs4.Egitmen = "Berkay Bilgin";
+        kurs4.IzlenmeOrani = 81;
 
-        Kurs[] kurslar = new Kurs[] {kurs1,kurs2,kurs3};
+
+        Kurs[] kurslar = new Kurs[] {kurs1,kurs2,kurs3,kurs4};
 
         foreach (var kurs in kurslar)
         {
