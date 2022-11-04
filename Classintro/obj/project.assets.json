@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muratfirtina/Projects/CSharpDers/Classintro/Classintro.csproj",
+      "projectUniqueName": "/Users/muratfirtina/Documents/GitHub/CSharpDers/Classintro/Classintro.csproj",
       "projectName": "Classintro",
-      "projectPath": "/Users/muratfirtina/Projects/CSharpDers/Classintro/Classintro.csproj",
+      "projectPath": "/Users/muratfirtina/Documents/GitHub/CSharpDers/Classintro/Classintro.csproj",
       "packagesPath": "/Users/muratfirtina/.nuget/packages/",
-      "outputPath": "/Users/muratfirtina/Projects/CSharpDers/Classintro/obj/",
+      "outputPath": "/Users/muratfirtina/Documents/GitHub/CSharpDers/Classintro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muratfirtina/.nuget/NuGet/NuGet.Config"
