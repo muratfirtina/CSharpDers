@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/bin/Debug/net6.0/Methods
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/bin/Debug/net6.0/Methods.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Methods/obj/Debug/net6.0/ref/Methods.dll

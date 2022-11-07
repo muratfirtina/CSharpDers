@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/bin/Debug/net6.0/DegerVeReferansTipler
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/bin/Debug/net6.0/DegerVeReferansTipler.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/bin/Debug/net6.0/DegerVeReferansTipler.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/bin/Debug/net6.0/DegerVeReferansTipler.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/bin/Debug/net6.0/DegerVeReferansTipler.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/refint/DegerVeReferansTipler.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/DegerVeReferansTipler.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/DegerVeReferansTipler/obj/Debug/net6.0/ref/DegerVeReferansTipler.dll
