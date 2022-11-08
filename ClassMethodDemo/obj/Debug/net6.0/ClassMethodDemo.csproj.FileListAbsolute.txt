@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/bin/Debug/net6.0/ClassMethodDemo
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/bin/Debug/net6.0/ClassMethodDemo.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/bin/Debug/net6.0/ClassMethodDemo.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/bin/Debug/net6.0/ClassMethodDemo.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/bin/Debug/net6.0/ClassMethodDemo.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/refint/ClassMethodDemo.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ClassMethodDemo.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/ClassMethodDemo/obj/Debug/net6.0/ref/ClassMethodDemo.dll
