@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/bin/Debug/net6.0/Collections
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/bin/Debug/net6.0/Collections.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/bin/Debug/net6.0/Collections.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/bin/Debug/net6.0/Collections.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/bin/Debug/net6.0/Collections.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/refint/Collections.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/Collections.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/Collections/obj/Debug/net6.0/ref/Collections.dll
