@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/bin/Debug/net6.0/OOP1
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/bin/Debug/net6.0/OOP1.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/bin/Debug/net6.0/OOP1.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/bin/Debug/net6.0/OOP1.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/bin/Debug/net6.0/OOP1.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/refint/OOP1.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/OOP1.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP1/obj/Debug/net6.0/ref/OOP1.dll

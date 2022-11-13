@@ -34,5 +34,9 @@ public class Program
         manager.Listele(customer3);
 
         manager.Sil(customer1);
+
+        
     }
+    
+    
 }
