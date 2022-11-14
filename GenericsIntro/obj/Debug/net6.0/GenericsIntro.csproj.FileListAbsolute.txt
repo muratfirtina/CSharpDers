@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/bin/Debug/net6.0/GenericsIntro
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/bin/Debug/net6.0/GenericsIntro.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/bin/Debug/net6.0/GenericsIntro.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/bin/Debug/net6.0/GenericsIntro.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/bin/Debug/net6.0/GenericsIntro.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/refint/GenericsIntro.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/GenericsIntro.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/GenericsIntro/obj/Debug/net6.0/ref/GenericsIntro.dll
