@@ -60,3 +60,9 @@ Console.WriteLine("------Id ye göre satış-------");
 salesManager.Get(sales1); // Id ye göre satış bilgileri
 Console.WriteLine("-------Tüm Satışlar--------");
 salesManager.GetAll(salesList: new List<Sales>{sales1,sales2}); // Tüm Satışların listesi
+
+Console.WriteLine("-------Kampanyaların silinmesi-------");
+campaignManager.Delete(campaign1);
+
+Console.WriteLine("-------Kampanyaların güncellenmesi-------");
+campaignManager.Update(new Campaign{CampaignName = campaign1.CampaignName, Id = campaign1.Id, DiscountRate = 22});

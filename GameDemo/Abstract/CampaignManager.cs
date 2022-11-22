@@ -12,6 +12,7 @@ public class CampaignManager : ICampaignService
     public void Update(Campaign campaign)
     {
         Console.WriteLine(campaign.CampaignName + " Kampanyası güncellendi");
+        
     }
 
     public void Delete(Campaign campaign)
