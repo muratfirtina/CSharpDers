@@ -1,16 +1,19 @@
-﻿<Properties StartupConfiguration="{434301A1-5B35-4AF8-8EB3-E9ADCE6D3CA8}|Default">
+﻿<Properties StartupConfiguration="{8FC129FC-A1FB-4A4A-9E27-5DE65E22BC0D}|Default">
+  <MonoDevelop.Ide.ItemProperties.GameDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ClassMethodDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Classintro PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassMethodDemo/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClassMethodDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameDemo/Program.cs">
     <Files>
-      <File FileName="ClassMethodDemo/Program.cs" Line="37" Column="6" />
+      <File FileName="ClassMethodDemo/Program.cs" Line="21" Column="33" />
       <File FileName="ClassMethodDemo/CustomerManager.cs" Line="29" Column="79" />
       <File FileName="Methods/Program.cs" Line="1" Column="1" />
       <File FileName="Methods/SepetManager.cs" Line="1" Column="1" />
       <File FileName="Classintro/Program.cs" Line="1" Column="1" />
+      <File FileName="GameDemo/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,6 +22,9 @@
             <Node name="Classintro" expanded="True" />
             <Node name="ClassMethodDemo" expanded="True" />
             <Node name="DegerVeReferansTipler" expanded="True" />
+            <Node name="GameDemo" expanded="True">
+              <Node name="Abstract" selected="True" />
+            </Node>
             <Node name="Methods" expanded="True" />
           </Node>
         </State>
@@ -28,9 +34,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Classintro PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

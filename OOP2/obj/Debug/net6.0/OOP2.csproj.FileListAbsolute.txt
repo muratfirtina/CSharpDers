@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/bin/Debug/net6.0/OOP2
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/bin/Debug/net6.0/OOP2.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/bin/Debug/net6.0/OOP2.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/bin/Debug/net6.0/OOP2.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/bin/Debug/net6.0/OOP2.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/refint/OOP2.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/OOP2.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/OOP2/obj/Debug/net6.0/ref/OOP2.dll
