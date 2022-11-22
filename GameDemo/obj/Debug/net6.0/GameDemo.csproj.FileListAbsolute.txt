@@ -46,3 +46,6 @@
 /Users/muratfirtina/Documents/GitHub/CSharpDers/GameDemo/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/muratfirtina/Documents/GitHub/CSharpDers/GameDemo/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
 /Users/muratfirtina/Documents/GitHub/CSharpDers/GameDemo/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Documents\GitHub\CSharpDers\GameDemo\obj\Debug\net6.0\GameDemo.dll
+\\Mac\Home\Documents\GitHub\CSharpDers\GameDemo\obj\Debug\net6.0\refint\GameDemo.dll
+\\Mac\Home\Documents\GitHub\CSharpDers\GameDemo\obj\Debug\net6.0\GameDemo.pdb
