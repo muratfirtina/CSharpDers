@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{8FC129FC-A1FB-4A4A-9E27-5DE65E22BC0D}|Default">
-  <MonoDevelop.Ide.ItemProperties.GameDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Classintro PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ClassMethodDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Classintro PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="GameDemo/Program.cs">
     <Files>
       <File FileName="ClassMethodDemo/Program.cs" Line="21" Column="33" />
@@ -22,9 +20,7 @@
             <Node name="Classintro" expanded="True" />
             <Node name="ClassMethodDemo" expanded="True" />
             <Node name="DegerVeReferansTipler" expanded="True" />
-            <Node name="GameDemo" expanded="True">
-              <Node name="Abstract" selected="True" />
-            </Node>
+            <Node name="GameDemo" expanded="True" />
             <Node name="Methods" expanded="True" />
           </Node>
         </State>
@@ -34,8 +30,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClassMethodDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

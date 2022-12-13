@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GameDemo"
+    "\\GameDemo",
+    "\\GameDemo\\bin",
+    "\\GameDemo\\bin\\Debug",
+    "\\GameDemo\\bin\\Debug\\net6.0",
+    "\\OOP1"
   ],
-  "SelectedNode": "\\GameDemo\\GameDemo.csproj",
+  "SelectedNode": "\\GameDemo\\bin\\Debug\\net6.0",
   "PreviewInSolutionExplorer": false
 }

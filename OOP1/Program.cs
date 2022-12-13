@@ -12,3 +12,4 @@ Product product2 = new Product {Id = 2, CategoryId = 5, ProductName = "Kalem", U
 ProductManager productManager = new ProductManager();
 productManager.Add(product1);
 Console.WriteLine(product1.ProductName);
+Console.ReadLine();

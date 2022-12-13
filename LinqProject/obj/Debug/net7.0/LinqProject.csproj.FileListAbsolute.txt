@@ -1,0 +1,15 @@
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/bin/Debug/net7.0/LinqProject
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/bin/Debug/net7.0/LinqProject.deps.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/bin/Debug/net7.0/LinqProject.runtimeconfig.json
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/bin/Debug/net7.0/LinqProject.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/bin/Debug/net7.0/LinqProject.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.csproj.AssemblyReference.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.AssemblyInfoInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.AssemblyInfo.cs
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.csproj.CoreCompileInputs.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/refint/LinqProject.dll
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.pdb
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/LinqProject.genruntimeconfig.cache
+/Users/muratfirtina/Documents/GitHub/CSharpDers/LinqProject/obj/Debug/net7.0/ref/LinqProject.dll
